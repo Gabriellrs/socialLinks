@@ -1,0 +1,219 @@
+@media only screen and (min-width: 0px) and (max-width: 2560px){
+    .arroba{
+        margin-top: 4vh;
+        font-size: 2.5rem;
+    }
+
+    .link{
+        width: 35rem;
+        margin-top: 1.5vh;
+    }
+
+    .icones{
+        margin-top:4vh;
+        width: 35rem;
+    }
+
+    .icone{
+        font-size: 2.8rem;
+        height: 3vh;
+    }
+
+    a{
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (min-width: 1850px) and (max-width: 2561px){
+    .foto img{
+        width: 15%;
+    }
+
+    .link{
+        padding: 1% 6%;
+    }
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1849px){
+    .foto img{
+        margin-top: -3vh;
+        width: 15%;
+    }
+}
+
+@media only screen and (min-width: 1350px) and (max-width: 1439px){
+    .foto img{
+        width: 25%;
+    }
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1349px){
+    .foto img{
+        width: 25%;
+    }
+}
+
+@media only screen and (min-width: 850px) and (max-width: 1099px){
+    .foto img{
+        width: 22%;
+    }
+}
+
+@media only screen and (min-width: 700px) and (max-width: 849px){
+    .foto img{
+        width: 35%;
+    }
+
+    .link{
+        margin-top: 1.5vh;
+    }
+}
+
+@media only screen and (min-width: 570px) and (max-width: 699px){
+    .foto img{
+        width: 40%;
+    }
+
+    .link{
+        margin-top: 1.5vh;
+    }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 569px){
+    .foto img{
+        width: 45%;
+    }
+
+    .arroba{
+        font-size: 2rem;
+    }
+
+    .link{
+        margin-top: 1.5vh;
+        width: 28rem;
+    }
+
+    .icones{
+        width: 28rem;
+    }
+
+    .icone{
+        font-size: 2.8rem;
+    }
+
+}
+
+@media only screen and (min-width: 430px) and (max-width: 499px){
+    .foto img{
+        width: 50%;
+    }
+
+    .arroba{
+        font-size: 2rem;
+    }
+
+    .link{
+        width: 24rem;
+    }
+
+    .icones{
+        width: 24rem;
+    }
+
+    .icone{
+        font-size: 2.5rem;
+    }
+
+}
+
+@media only screen and (min-width: 400px) and (max-width: 429px){
+    .foto img{
+        width: 55%;
+    }
+
+    .arroba{
+        font-size: 2rem;
+    }
+
+    .link{
+        width: 20rem;
+    }
+
+    .icones{
+        width: 20rem;
+    }
+
+    .icone{
+        font-size: 2.2rem;
+    }
+
+}
+
+@media only screen and (min-width: 350px) and (max-width: 399px){
+    .foto img{
+        width: 60%;
+    }
+
+    .arroba{
+        font-size: 2rem;
+    }
+
+    .link{
+        width: 20rem;
+    }
+
+    .icones{
+        width: 20rem;
+    }
+
+    .icone{
+        font-size: 2.2rem;
+    }
+
+}
+
+@media only screen and (min-width: 300px) and (max-width: 349px){
+    .foto img{
+        width: 65%;
+    }
+
+    .arroba{
+        font-size: 2rem;
+    }
+
+    .link{
+        width: 18rem;
+    }
+
+    .icones{
+        width: 18rem;
+    }
+
+    .icone{
+        font-size: 2rem;
+    }
+
+}
+
+@media only screen and (min-width: 250px) and (max-width: 299px){
+    .foto img{
+        width: 70%;
+    }
+
+    .arroba{
+        font-size: 2rem;
+    }
+
+    .link{
+        width: 15rem;
+    }
+
+    .icones{
+        width: 15rem;
+    }
+
+    .icone{
+        font-size: 2rem;
+    }
+
+}
